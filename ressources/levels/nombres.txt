@@ -1,0 +1,9 @@
+0 = herbe
+1 = mur
+2 = brique
+3 = spawn
+4 = brique + bonus bombe supplémentaire
+5 = herbe + bonus bombe supplémentaire uniquement
+6 = herbe
+7 = brique + bonus vitesse du perso
+8 = herbe + bonus vitesse du perso
